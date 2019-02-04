@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cus",
+				"customer_name"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"bu",
+				"buy_product"
+			],
+			[
+				"se",
+				"set_product_info"
+			],
+			[
+				"pr",
+				"product_1"
+			],
+			[
+				"set",
+				"set_customer_info"
+			],
+			[
+				"de",
+				"device_state"
+			],
+			[
+				"cha",
+				"channels"
+			],
+			[
+				"br",
+				"bridging"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"c",
+				"current_channels"
+			],
+			[
+				"cur",
+				"current_channels"
+			],
+			[
+				"e",
+				"endpoints"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"bri",
+				"bridge_id"
+			],
+			[
+				"aster",
+				"asterisk_wrapper"
+			],
+			[
+				"bride",
+				"bridges"
+			],
+			[
+				"app",
+				"app_name"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"as",
+				"asterisk_address"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"Log",
+				"_logger"
+			],
+			[
+				"st",
+				"status_code"
+			],
+			[
+				"channel_",
+				"channel_name"
+			],
+			[
+				"hang",
+				"hangup"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"te",
+				"telephony"
+			],
+			[
+				"b",
+				"bridges"
+			],
+			[
+				"odoo",
+				"odoo-custom"
+			],
+			[
+				"ne",
+				"new_list"
+			],
+			[
+				"extr",
+				"extract_data_test"
+			],
+			[
+				"code",
+				"code_container"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"ma",
+				"make_call"
+			],
+			[
+				"limit",
+				"limit_parm"
+			],
+			[
+				"default",
+				"default_get"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"hidden",
+				"hidden-xs"
+			],
+			[
+				"get",
+				"get_order"
+			],
+			[
+				"cwr_order",
+				"cwr_order_response"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"accou",
+				"account_id"
+			],
+			[
+				"Data",
+				"DataSet"
+			],
+			[
+				"_log",
+				"_logger"
+			],
+			[
+				"table",
+				"table_name"
+			],
+			[
+				"exc",
+				"exception"
+			],
+			[
+				"_",
+				"_logger"
+			],
+			[
+				"message",
+				"message_id"
+			],
+			[
+				"submit",
+				"submit_feed"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"produ",
+				"production_mode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 66.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli"
+	],
+	"file_history":
+	[
+		"/home/yankinmk/Documents/ubuntu-server.txt",
+		"/home/yankinmk/Desktop/Макс резюме/Interview on Python/coursera_python/object-oriented/car_list.txt",
+		"/home/yankinmk/Desktop/Макс резюме/Interview on Python/coursera_python/object-oriented/inheritance.txt",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/shop_cli.py",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/functions/spAppGetSalesInfo.sql",
+		"/home/yankinmk/Desktop/Макс резюме/Interview on Python/coursera_python/object-oriented/solution.txt",
+		"/home/yankinmk/Desktop/Макс резюме/Interview on Python/coursera_python/object-oriented/classes.txt",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/functions/spAppLoadProducts.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/functions/spAppBuyProduct.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/sequences/tbCustomers_id_seq.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/sequences/tbProducts_id_seq.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/sequences/tbBroughtProducts_id_seq.sql",
+		"/home/yankinmk/Documents/Reports/2019/01/28.01-09.02.txt",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/tables/tbCustomers.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/tables/tbBroughtProducts.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/functions/spAppInsertStagingProduct.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/functions/spAppGetAmazonOrdersPage.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/functions/spAppGetAmazonOrders.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/functions/spAppGetCWRProductsPage.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/functions/spAppGetSubmitFeed.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/functions/spAppSuppressedManufacturer.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/tables/tbSubmitFeed.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/tables/tbProducts.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/tables/tbFeedProcessingStatus.sql",
+		"/home/yankinmk/Desktop/Макс резюме/Interview on Python/coursera_python/data_types/common tasks.txt",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/functions/spAppInsertStagingCustomer.sql",
+		"/home/yankinmk/Desktop/Developer/marinetr_scrapper/version-0.2.0/scrapper/sitemap.py",
+		"/home/yankinmk/Desktop/Developer/marinetr_scrapper/version-0.2.0/DB/tables/products.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/database.conf",
+		"/home/yankinmk/Desktop/Developer/marinetr_scrapper/version-0.2.0/scrapper/__init__.py",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/__init__.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/functions/spAppInsertStagingCWRProducts.sql",
+		"/home/yankinmk/Desktop/Developer/marinetr_scrapper/version-0.2.0/DB/functions/spApp_AddProducts.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/tables/tbCurrency.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external/tables/tbProducts.sql",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/DB/odoodb/external.sql",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/db/external.sql",
+		"/home/yankinmk/Documents/uat.masterbit.in.ua.txt",
+		"/home/yankinmk/Desktop/marinetrading/cwr_loader_test.py",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli/tools.py",
+		"/home/yankinmk/Desktop/Developer/marinetr_scrapper/version-0.2.0/scrapper/scrapper.conf",
+		"/home/yankinmk/Desktop/Developer/marinetr_scrapper/version-0.2.0/scrapper/tools.py",
+		"/home/yankinmk/Desktop/marinetrading/tools_test.py",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli.sublime-project",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/shop_cli.py",
+		"/home/yankinmk/Desktop/Developer/bitegrico/task-1/Untitled Document",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/static/src/js/phone_tray.js",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/main.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/wrapper.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/models/telephony.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/ws_client.py",
+		"/home/yankinmk/Documents/hold.txt",
+		"/home/yankinmk/Desktop/1",
+		"/home/yankinmk/Documents/план для телефонии.txt",
+		"/home/yankinmk/Documents/Reports/2019/01/21.01-25.01.txt",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/static/src/xml/phone.xml",
+		"/tmp/ubuntu-73ijb5/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/killer.py",
+		"/tmp/rsub-lhsirr/odoo-server.log",
+		"/tmp/rsub-ryi6u7/odoo-server.log",
+		"/tmp/rsub-zvjp47/odoo-server.log",
+		"/tmp/rsub-nysiiu/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/static/src/less/telephony.less",
+		"/tmp/rsub-4yfggy/odoo-server.log",
+		"/tmp/rsub-i1xprk/odoo-server.log",
+		"/home/yankinmk/Documents/Reports/2019/01/14.01-18.01.txt",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/web/static/lib/pdfjs/web/mozPrintCallback_polyfill.js",
+		"/tmp/ubuntu-_nqk2k/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/views/templates.xml",
+		"/home/yankinmk/Desktop/Developer/marinetr_scrapper/scrapper.py",
+		"/tmp/rsub-t7dxdw/odoo-server.log",
+		"/tmp/rsub-e7wcsh/odoo-server.log",
+		"/tmp/rsub-ivlmkf/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/static/src/telephony.css",
+		"/tmp/rsub-3ohiu9/odoo-server.log",
+		"/tmp/rsub-6ta3xm/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/mail/static/src/less/systray.less",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/views/views.xml",
+		"/tmp/ubuntu-qe5h7s/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/creds.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/static/src/less/systray.less",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/__init__.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/static/src/js/fancy.js",
+		"/tmp/rsub-flc9rb/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/mail/static/src/xml/client_action.xml",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/mail/static/src/xml/systray.xml",
+		"/home/yankinmk/Documents/Reports/2019/01/03.01-11.01.txt",
+		"/tmp/ubuntu-npo782/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/models/__init__.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/2.py",
+		"/tmp/ubuntu-0s56uw/odoo-server.log",
+		"/tmp/ubuntu-tnlmk1/odoo-server.log",
+		"/tmp/ubuntu-v3rcfr/odoo-server.log",
+		"/tmp/ubuntu-1v15qd/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/ari_client.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/models/channel.py",
+		"/home/yankinmk/Desktop/1.txt",
+		"/home/yankinmk/Desktop/ari-ws-client.py",
+		"/tmp/ubuntu-a047p_/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/websocket.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/ws_only_state.py",
+		"/tmp/ubuntu-damgqe/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/test_socket.py",
+		"/tmp/ubuntu-a3ijbm/odoo-server.log",
+		"/tmp/ubuntu-m9uwyo/odoo-server.log",
+		"/tmp/ubuntu-el5_tm/odoo-server.log",
+		"/tmp/ubuntu-vxfa_v/odoo-server.log",
+		"/home/yankinmk/Desktop/start-odoo.py",
+		"/home/yankinmk/Desktop/odoo-log.txt",
+		"/tmp/ubuntu-fnwxku/odoo-server.log",
+		"/tmp/ubuntu-f8gu8a/odoo-server.log",
+		"/tmp/ubuntu-i_ytki/odoo-server.log",
+		"/tmp/ubuntu-ggrvg5/main.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/tools.py",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/controllers.py",
+		"/tmp/ubuntu-fme7h5/odoo-server.log",
+		"/tmp/ubuntu-3csuv9/odoo-server.log",
+		"/tmp/ubuntu-urleb0/odoo-server.log",
+		"/tmp/ubuntu-ub3h2_/odoo-server.log",
+		"/home/yankinmk/Desktop/only_state.py",
+		"/tmp/ubuntu-3vhfbq/odoo-server.log",
+		"/tmp/ubuntu-imvety/odoo-server.log",
+		"/home/yankinmk/Desktop/Developer/marinetrading/sources/odoo/odoo/odoo/addons/telephony/controllers/poll_executor.py",
+		"/tmp/ubuntu-k6i091/odoo-server.log",
+		"/tmp/ubuntu-roi7vc/odoo-server.log",
+		"/tmp/ubuntu-_j_mdn/odoo-server.log",
+		"/home/yankinmk/Desktop/.py",
+		"/tmp/ubuntu-1fgbhi/odoo-server.log"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"create_strategy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shop_cli.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 427.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
